@@ -1,0 +1,32 @@
+_repo: Grove-of-the-Unborn_29205
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Venable, Lyn
+    aliases:
+    - Venable, Lynn A.
+    - Venable, Marilyn
+    gutenberg_agent_id: '33761'
+    url: http://www.gutenberg.org/2009/agents/33761
+description: Bheel still stood on the patio, transfixed with horror. He heard the
+  terrified cry ""Dheb Tyn-Dall""--And then the vigilant Guardians got him ...
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2009-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: Grove of the Unborn
+url: http://www.gutenberg.org/ebooks/29205
